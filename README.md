@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @alessiogandelli
 - 👀 I’m interested in Data Science, Human behaviour, Entrepreneurship
-- 🌱 I’m currently learning geospatial analysis, twitter scraping
+- 🌱 I’m currently learning network analysis, geospatial analysis, twitter scraping
 - 💞️ I’m searching a Data Science internship feb-jul 2023
-- 📫 How to reach me: telegram @d8eea e-mail: alessiogandelli99@gmail.com
+- 📫 How to reach me: telegram @d8eea e-mail: me@gandelli.dev
 
 
-# Projects 
+# Projects (in progress9
 
 # current 
-attention-analysis: 
+attention-analysis:
 feat-network:
 geospatial:
 twitter analysis:
