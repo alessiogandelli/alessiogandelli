@@ -9,7 +9,7 @@
 ## current 
 [feat-network](https://github.com/alessiogandelli/feat-network): Social networks analysis of spotify artists, with a focus on italian music
 
-attention-analysis: analysis of sensor data and time diary of students 
+[attention-analysis](https://github.com/alessiogandelli/attention-analysis): analysis of sensor data and time diary of students 
 
 [geospatial-housing](https://github.com/alessiogandelli/geospatial-uppsala-housing): use geospatial data to find the right house 
 
