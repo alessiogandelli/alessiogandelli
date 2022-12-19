@@ -1,25 +1,25 @@
 - 👋 Hi, I’m @alessiogandelli
-- 👀 I’m interested in Data Science, Human behaviour, Entrepreneurship
-- 🌱 I’m currently learning network analysis, geospatial analysis, twitter scraping
-- 💞️ I’m searching for a Data Science internship feb-jul 2023
+- 👀 I’m interested in Data Science, Social Network Analysis, Entrepreneurship
+- 🌱 I’m currently learning social network analysis, geospatial analysis, twitter scraping, google cloud platform
 - 📫 How to reach me: telegram @d8eea e-mail: me@gandelli.dev
 
 
 # Projects 
 
 ## current 
-[feat-network](https://github.com/alessiogandelli/feat-network): Social networks analysis of spotify artists, with a focus on italian hip hop
-attention-analysis:
+[feat-network](https://github.com/alessiogandelli/feat-network): Social networks analysis of spotify artists, with a focus on italian music
 
-geospatial: 
+attention-analysis: analysis of sensor data and time diary of students 
 
-Twitter analysis:
+[geospatial-housing](https://github.com/alessiogandelli/geospatial-uppsala-housing): use geospatial data to find the right house 
+
+[tweet-musk-network](https://github.com/alessiogandelli/tweet-musk-network): what happened after twitter acquisition?
 
 
 ## Data Science  
 [wikipedia-revert](https://github.com/WikiCommunityHealth/wikimedia-revert): My BSc thesis project: analysis of reverts and edit wars on Wikipedia 
 
-[covid-dashboard](https://github.com/alessiogandelli/covid-dashboard-unitn): The aim of this project was to get familiar with different big data technologies such as Spark, Kafka, Mqtt and design the data pipline I also increases my knowledge of PostgreSQL, MongoDB, Pandas
+[covid-dashboard](https://github.com/alessiogandelli/covid-dashboard-unitn): The aim of this project was to get familiar with different big data technologies such as Spark, Kafka, Mqtt and design the data pipeline, I also improved my knowledge of PostgreSQL, MongoDB, Pandas
 
 [image-retrieval](https://github.com/alessiogandelli/machine-learning-unitn): I used tensorflow to implement a Siamese Network, the goal of this project is an image search engine that returns the most similar image to the query taken from a gallery.
 
