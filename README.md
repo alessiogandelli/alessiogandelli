@@ -1,19 +1,19 @@
 - 👋 Hi, I’m @alessiogandelli
-- 👀 I’m interested in Data Science, Social Network Analysis, Entrepreneurship
-- 🌱 I’m currently learning social network analysis, geospatial analysis, twitter scraping, google cloud platform
+- 👀 I’m interested in Data Science, Social Network Analysis, Entrepreneurship, NLP
+- 🌱 I’m currently learning social network analysis, Topic modeling
 - 📫 How to reach me: telegram @d8eea e-mail: me@gandelli.dev
 
 
 # Projects 
 
 ## current 
-[feat-network](https://github.com/alessiogandelli/feat-network): Social networks analysis of spotify artists, with a focus on italian music
 
-[attention-analysis](https://github.com/alessiogandelli/attention-analysis): analysis of sensor data and time diary of students 
+Internship at Uppsala University: working with topic modeling and social network analysis in the context of climate change
 
-[geospatial-housing](https://github.com/alessiogandelli/geospatial-uppsala-housing): use geospatial data to find the right house 
 
-[tweet-musk-network](https://github.com/alessiogandelli/tweet-musk-network): what happened after twitter acquisition?
+
+
+
 
 
 ## Data Science  
@@ -22,6 +22,15 @@
 [covid-dashboard](https://github.com/alessiogandelli/covid-dashboard-unitn): The aim of this project was to get familiar with different big data technologies such as Spark, Kafka, Mqtt and design the data pipeline, I also improved my knowledge of PostgreSQL, MongoDB, Pandas
 
 [image-retrieval](https://github.com/alessiogandelli/machine-learning-unitn): I used tensorflow to implement a Siamese Network, the goal of this project is an image search engine that returns the most similar image to the query taken from a gallery.
+
+[feat-network](https://github.com/alessiogandelli/feat-network): Social networks analysis of spotify artists, with a focus on italian music
+
+
+[attention-analysis](https://github.com/alessiogandelli/attention-analysis): analysis of sensor data and time diary of students trying to understand study patterns and factor of distractions
+
+[tweet-musk-network](https://github.com/alessiogandelli/tweet-musk-network): what happened after twitter acquisition? an analysis of the comment section of Elon Musk's posts using NLP and Network analysis
+
+[geospatial-housing](https://github.com/alessiogandelli/geospatial-uppsala-housing): use geospatial data to find the right house 
 
 
 ## node.js
