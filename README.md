@@ -6,9 +6,11 @@
 
 # Projects 
 
-## current 
+## Current 
 
 Internship at Uppsala University: working with topic modeling and social network analysis in the context of climate change
+
+[StudyBuddy](https://studybuddy.it)
 
 
 
