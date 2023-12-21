@@ -6,9 +6,17 @@
 
 # Projects 
 
-## Current 
+## Analyzing Polarization on Twitter using topic modeling and multilayer networks in the context of climate change 
+This is the project for my master thesis
 
-Internship at Uppsala University: working with topic modeling and social network analysis in the context of climate change
+[topic_modeling_eval](https://github.com/alessiogandelli/topic-modeling-eval): Different topic modeling techniques have been evaluated 
+[tweets to topic network](https://github.com/alessiogandelli/tweets-to-topic-network): a library that given a set of tweets creates a multi-layer network of retweets where each layer is a topic 
+[climate_network_analysis](https://github.com/alessiogandelli/climate-network-analysis): the analysis of the network created 
+
+[The thesis](https://github.com/alessiogandelli/master-thesis/blob/main/AlessioGandelliThesis.pdf)
+
+## StudyBuddy
+we are creating a platform to help university students to organize and plan their study, with the goal to save time and be more productive
 
 [StudyBuddy](https://studybuddy.it)
 
