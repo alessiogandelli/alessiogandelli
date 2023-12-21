@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alessiogandelli
-- 👀 I’m interested in Data Science, Social Network Analysis, Entrepreneurship, NLP
-- 🌱 I’m currently learning social network analysis, Topic modeling
-- 📫 How to reach me: telegram @d8eea e-mail: me@gandelli.dev
+- 👀 I’m interested in Data Science, Social Network Analysis, Startup, NLP
+- 🌱 I’m currently learning how to build an AI assistant using [cheshire-cat](https://github.com/cheshire-cat-ai/core)
+- 📫 How to reach me: telegram @d8eea e-mail: alessiogandelli.99@gmail.com
 
 
 # Projects 
@@ -10,7 +10,9 @@
 This is the project for my master thesis
 
 [topic_modeling_eval](https://github.com/alessiogandelli/topic-modeling-eval): Different topic modeling techniques have been evaluated 
+
 [tweets to topic network](https://github.com/alessiogandelli/tweets-to-topic-network): a library that given a set of tweets creates a multi-layer network of retweets where each layer is a topic 
+
 [climate_network_analysis](https://github.com/alessiogandelli/climate-network-analysis): the analysis of the network created 
 
 [The thesis](https://github.com/alessiogandelli/master-thesis/blob/main/AlessioGandelliThesis.pdf)
