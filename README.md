@@ -15,7 +15,7 @@ This is the project for my master thesis
 
 [climate_network_analysis](https://github.com/alessiogandelli/climate-network-analysis): the analysis of the network created 
 
-[The thesis](https://github.com/alessiogandelli/master-thesis/blob/main/AlessioGandelliThesis.pdf)
+[The thesis](https://github.com/alessiogandelli/master-thesis/blob/main/AlessioGandelliThesisFinal.pdf)
 
 ## StudyBuddy
 we are creating a platform to help university students to organize and plan their study, with the goal to save time and be more productive
