@@ -4,7 +4,12 @@
 - 📫 How to reach me: telegram @d8eea e-mail: alessiogandelli.99@gmail.com
 
 
-# Projects 
+# StudyBuddy
+we are creating a platform to help university students to manage time better and to find someone to study with
+
+[StudyBuddy](https://studybuddy.it)
+
+# Research activity 
 
 ## Analyzing Polarization on Twitter using topic modeling and multilayer networks in the context of climate change 
 This is the project for my master thesis
@@ -17,31 +22,36 @@ This is the project for my master thesis
 
 [The thesis](https://github.com/alessiogandelli/master-thesis/blob/main/AlessioGandelliThesisFinal.pdf)
 
-## StudyBuddy
-we are creating a platform to help university students to organize and plan their study, with the goal to save time and be more productive
-
-[StudyBuddy](https://studybuddy.it)
 
 
 
 
 
+
+
+
+# Other projects
+
+[attention-analysis](https://github.com/alessiogandelli/attention-analysis): analysis of sensor data and time diary of students trying to understand study patterns and factor of distractions
+
+
+## Social Networks
+
+[feat-network](https://github.com/alessiogandelli/feat-network): Social networks analysis of spotify artists, with a focus on italian music
+
+[tweet-musk-network](https://github.com/alessiogandelli/tweet-musk-network): what happened after twitter acquisition? an analysis of the comment section of Elon Musk's posts using NLP and Network analysis
 
 
 ## Data Science  
 [wikipedia-revert](https://github.com/WikiCommunityHealth/wikimedia-revert): My BSc thesis project: analysis of reverts and edit wars on Wikipedia 
 
-[covid-dashboard](https://github.com/alessiogandelli/covid-dashboard-unitn): The aim of this project was to get familiar with different big data technologies such as Spark, Kafka, Mqtt and design the data pipeline, I also improved my knowledge of PostgreSQL, MongoDB, Pandas
-
 [image-retrieval](https://github.com/alessiogandelli/machine-learning-unitn): I used tensorflow to implement a Siamese Network, the goal of this project is an image search engine that returns the most similar image to the query taken from a gallery.
 
-[feat-network](https://github.com/alessiogandelli/feat-network): Social networks analysis of spotify artists, with a focus on italian music
+[covid-dashboard](https://github.com/alessiogandelli/covid-dashboard-unitn): The aim of this project was to get familiar with different big data technologies such as Spark, Kafka, Mqtt and design the data pipeline, I also improved my knowledge of PostgreSQL, MongoDB, Pandas
 
 
-[attention-analysis](https://github.com/alessiogandelli/attention-analysis): analysis of sensor data and time diary of students trying to understand study patterns and factor of distractions
 
-[tweet-musk-network](https://github.com/alessiogandelli/tweet-musk-network): what happened after twitter acquisition? an analysis of the comment section of Elon Musk's posts using NLP and Network analysis
-
+## geospatial 
 [geospatial-housing](https://github.com/alessiogandelli/geospatial-uppsala-housing): use geospatial data to find the right house 
 
 
