@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @alessiogandelli
-- 👀 I’m interested in Data Science, Social Network Analysis, Startup, NLP
+- 👀 I’m interested in  Startups, Data Science, Social Network Analysis, NLP
 - 🌱 I’m currently learning how to build an AI assistant using [cheshire-cat](https://github.com/cheshire-cat-ai/core)
 - 📫 How to reach me: telegram @d8eea e-mail: alessiogandelli.99@gmail.com
 
 
 # StudyBuddy
-we are creating a platform to help university students to manage time better and to find someone to study with
-
+best pomodoro timer in town:
 [StudyBuddy](https://studybuddy.it)
 
 # Research activity 
